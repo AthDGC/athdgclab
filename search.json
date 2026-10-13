@@ -1,0 +1,513 @@
+[
+  {
+    "objectID": "working-papers.html",
+    "href": "working-papers.html",
+    "title": "Working Papers, digital edition",
+    "section": "",
+    "text": "The AthDGC Working Papers, digital edition is an open-access series self-published by the lab. Each paper carries:"
+  },
+  {
+    "objectID": "working-papers.html#series-metadata",
+    "href": "working-papers.html#series-metadata",
+    "title": "Working Papers, digital edition",
+    "section": "Series metadata",
+    "text": "Series metadata\n\n\n\nField\nValue\n\n\n\n\nSeries title\nAthDGC Working Papers, digital edition\n\n\nHost institution\nNational and Kapodistrian University of Athens (NKUA), Division of Language-Linguistics, Department of English Language and Literature, School of Philosophy\n\n\nEditor\nProf. Nikolaos Lavidas\n\n\nScope\nlanguage contact, diachronic linguistics, computational philology\n\n\nLicence\nCC-BY-4.0 (narrative); per-artefact licences for data + code\n\n\nArchival home\nZenodo, with mirror at https://athdgc.github.io/athdgclab\n\n\nSeries language\nEnglish (primary); Greek (selected)\n\n\nISSN (International Standard Serial Number, the permanent identifier for a journal or series)\nnot yet assigned"
+  },
+  {
+    "objectID": "working-papers.html#published-papers",
+    "href": "working-papers.html#published-papers",
+    "title": "Working Papers, digital edition",
+    "section": "Published papers",
+    "text": "Published papers\n\n\n\nID\nTitle\nAuthor(s)\nYear\nDOI\n\n\n\n\nWP-01\nAthDGC: An Open Diachronic Greek Treebank with Indo-European Parallels\nLavidas, Nikiforidou, Haug, Kulikov, Geka, Symeonidis, Michalareas, Chionidi, Tsiropina, Plakoutsi, Argyropoulos\n2026\n10.5281/zenodo.20439182"
+  },
+  {
+    "objectID": "working-papers.html#submissions-in-preparation",
+    "href": "working-papers.html#submissions-in-preparation",
+    "title": "Working Papers, digital edition",
+    "section": "Submissions in preparation",
+    "text": "Submissions in preparation\nAdditional Working Papers from the AthDGC research network are in preparation and will be announced here once they have a stable draft. Titles, authors, and release dates are confirmed in the announcement, not in advance."
+  },
+  {
+    "objectID": "working-papers.html#how-to-cite-a-working-paper",
+    "href": "working-papers.html#how-to-cite-a-working-paper",
+    "title": "Working Papers, digital edition",
+    "section": "How to cite a Working Paper",
+    "text": "How to cite a Working Paper\nPlain text:\n\n[Authors] ([Year]). [Title]. AthDGC Working Papers, digital edition, WP-NN. National and Kapodistrian University of Athens (NKUA). [DOI].\n\nBibTeX template (see each paper for its filled-in entry):\n@techreport{lab2026WPnn,\n  type        = {AthDGC Working Paper, digital edition},\n  number      = {WP-NN},\n  author      = {Authors},\n  title       = {Title},\n  year        = {2026},\n  institution = {National and Kapodistrian University of Athens (NKUA)},\n  doi         = {10.5281/zenodo.XXXXXXX}\n}"
+  },
+  {
+    "objectID": "working-papers.html#editorial-process",
+    "href": "working-papers.html#editorial-process",
+    "title": "Working Papers, digital edition",
+    "section": "Editorial process",
+    "text": "Editorial process\nThe series is author-archived. The editor reviews each submission for: scope match, house-style compliance, open-access source-chain compliance (no in-copyright republication), and PROIEL-XML 2.0 strictness where the paper introduces annotated corpora. Accepted papers are frozen on Zenodo and listed here in the order of acceptance."
+  },
+  {
+    "objectID": "working-papers.html#submitting",
+    "href": "working-papers.html#submitting",
+    "title": "Working Papers, digital edition",
+    "section": "Submitting",
+    "text": "Submitting\nLab members and AthDGC research-network affiliates can propose a paper via:\n\nIssue at https://github.com/AthDGC/athdgclab/issues\nEmail: nlavidas@enl.uoa.gr"
+  },
+  {
+    "objectID": "series.html",
+    "href": "series.html",
+    "title": "AthDGC Working Papers",
+    "section": "",
+    "text": "AthDGC Working Papers is the open-access working-papers series of the Division of Language-Linguistics, Department of English Language and Literature, School of Philosophy, National and Kapodistrian University of Athens (NKUA). The series publishes work in diachronic linguistics, language contact, computational philology, historical Indo-European, and corpus and treebank methods.\nThe series is the editorial outlet for the project Athens Digital Glossa Chronos (AthDGC) and for related Division activity."
+  },
+  {
+    "objectID": "series.html#what-this-is",
+    "href": "series.html#what-this-is",
+    "title": "AthDGC Working Papers",
+    "section": "",
+    "text": "AthDGC Working Papers is the open-access working-papers series of the Division of Language-Linguistics, Department of English Language and Literature, School of Philosophy, National and Kapodistrian University of Athens (NKUA). The series publishes work in diachronic linguistics, language contact, computational philology, historical Indo-European, and corpus and treebank methods.\nThe series is the editorial outlet for the project Athens Digital Glossa Chronos (AthDGC) and for related Division activity."
+  },
+  {
+    "objectID": "series.html#series-metadata",
+    "href": "series.html#series-metadata",
+    "title": "AthDGC Working Papers",
+    "section": "Series metadata",
+    "text": "Series metadata\n\n\n\nField\nValue\n\n\n\n\nSeries title\nAthDGC Working Papers\n\n\nPublisher\nDivision of Language-Linguistics, NKUA\n\n\nEditor\nProf. Nikolaos Lavidas (NKUA)\n\n\nLanguages\nEnglish and Greek (per issue)\n\n\nFormat\nOpen-access digital edition (HTML, PDF, .docx)\n\n\nFrequency\nContinuous, with an annual archival snapshot\n\n\nDistribution\nhttps://athdgc.github.io/athdgclab\n\n\nPersistent identifiers\nPer-issue DOI minted on Zenodo (CERN)\n\n\nLicence\nCC-BY-4.0 for metadata; per-issue licence stated on each Working Paper\n\n\nISSN\nApplication submitted to the National Library of Greece on 5 June 2026 (pending)\n\n\nSeries concept record\n10.5281/zenodo.20439182\n\n\nZenodo community\nathdgclab-working-papers (application submitted, pending approval)"
+  },
+  {
+    "objectID": "series.html#peer-review-and-editorial-policy",
+    "href": "series.html#peer-review-and-editorial-policy",
+    "title": "AthDGC Working Papers",
+    "section": "Peer-review and editorial policy",
+    "text": "Peer-review and editorial policy\nEach submission is reviewed editorially by the series editor and by at least one external reviewer drawn from the area of the submission. Accepted papers are deposited on Zenodo under the series community, receive a per-issue Zenodo DOI, and are published on this site. The series ISSN appears on each Working Paper once issued."
+  },
+  {
+    "objectID": "series.html#submission",
+    "href": "series.html#submission",
+    "title": "AthDGC Working Papers",
+    "section": "Submission",
+    "text": "Submission\nTo submit a Working Paper, contact the editor:\n\nProf. Nikolaos Lavidas, nlavidas@enl.uoa.gr\n\nSubmissions should include: a one-paragraph abstract; the manuscript in .docx or PDF; a complete reference list; the licence under which you are willing to release the Working Paper."
+  },
+  {
+    "objectID": "series.html#how-to-cite-a-working-paper-from-this-series",
+    "href": "series.html#how-to-cite-a-working-paper-from-this-series",
+    "title": "AthDGC Working Papers",
+    "section": "How to cite a Working Paper from this series",
+    "text": "How to cite a Working Paper from this series\nUse author-date format with the Working Paper number and the per-issue DOI:\n\nLavidas, N. et al. (2026). AthDGC: An Open Diachronic Greek Treebank with Indo-European Parallels. AthDGC Working Paper No. 01. National and Kapodistrian University of Athens. DOI: (per-issue DOI, pending Zenodo deposition).\n\nBibTeX is supplied per Working Paper in its deposition packet."
+  },
+  {
+    "objectID": "series.html#current-issues",
+    "href": "series.html#current-issues",
+    "title": "AthDGC Working Papers",
+    "section": "Current issues",
+    "text": "Current issues\n\n\n\n\n\n\n\n\n\n\nNo.\nTitle\nAuthors\nDate\nStatus\n\n\n\n\n01\nAthDGC: An Open Diachronic Greek Treebank with Indo-European Parallels\nLavidas, Nikiforidou, Haug, Kulikov, Geka, Symeonidis, Michalareas, Chionidi, Tsiropina, Plakoutsi, Argyropoulos\n2026-06-05\nIn setup - Zenodo community approval pending; per-issue DOI minted on deposition"
+  },
+  {
+    "objectID": "series.html#funding",
+    "href": "series.html#funding",
+    "title": "AthDGC Working Papers",
+    "section": "Funding",
+    "text": "Funding\nThe series and the AthDGC platform are funded by the Hellenic Foundation for Research and Innovation (HFRI) under the 3rd Call for HFRI Research Projects to support Post-Doctoral Researchers, Project No. 20577, with complementary support from the Greece 2.0 National Recovery and Resilience Plan. Compute is supplied by GRNET ARIS (Greek national high-performance computing cluster), allocation pa260305."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "The lab director, Prof. Nikolaos Lavidas, has published widely on diachronic syntax, written language contact, biblical translation as contact, and the diachrony of Greek argument structure. A selected list appears below; for the full annotated list of working-papers self-published by the lab, see Working Papers."
+  },
+  {
+    "objectID": "publications.html#monograph",
+    "href": "publications.html#monograph",
+    "title": "Publications",
+    "section": "Monograph",
+    "text": "Monograph\n\nLavidas, Nikolaos. 2022. The Diachrony of Written Language Contact: A Contrastive Approach. Brill's Studies in Historical Linguistics. Leiden, Boston: Brill. A full-length monograph examining contact-induced change in written registers, with particular emphasis on biblical and literary translations from antiquity through the Renaissance."
+  },
+  {
+    "objectID": "publications.html#edited-volume",
+    "href": "publications.html#edited-volume",
+    "title": "Publications",
+    "section": "Edited volume",
+    "text": "Edited volume\n\nLavidas, Nikolaos, and Kiki Nikiforidou (eds.). 2022. Studying Language Change in the 21st Century: Theory and Methodologies. Brill's Studies in Historical Linguistics. Leiden, Boston: Brill."
+  },
+  {
+    "objectID": "publications.html#selected-articles-and-chapters",
+    "href": "publications.html#selected-articles-and-chapters",
+    "title": "Publications",
+    "section": "Selected articles and chapters",
+    "text": "Selected articles and chapters\n\nGamagari, T., and Nikolaos Lavidas. 2022. How does language change (not) affect translations? A corpus-based study on lexical transfer in translations of Renaissance English and Greek. In Lavidas, N., and K. Nikiforidou (eds.), Studying Language Change in the 21st Century: Theory and Methodologies. Leiden, Boston: Brill.\nLavidas, Nikolaos. 2019. Word order and closest-conjunct agreement in the Greek Septuagint: On the position of a biblical translation in the diachrony of a syntactic correlation. Questions and Answers in Linguistics 5(2): 37-90.\nLavidas, Nikolaos. 2017. Cognate noun constructions in Early Modern English: The case of Tyndale's New Testament. In Cuyckens, H., et al. (eds.), Explorations in English Historical Syntax, 51-76. Amsterdam: John Benjamins.\nLavidas, Nikolaos. 2014. The Greek Septuagint and language change at the syntax-semantics interface: From null to \"pleonastic\" object pronouns. In Gianollo, C., Jaeger, A., and Penka, D. (eds.), Language Change at the Syntax-Semantics Interface, 153-182. Berlin: de Gruyter Mouton.\nLavidas, Nikolaos. 2012. Null vs. cognate objects and language contact: Evidence from Hellenistic Greek. Poznan Studies in Contemporary Linguistics 48(4): 547-569."
+  },
+  {
+    "objectID": "publications.html#forthcoming-and-edited-volumes-in-preparation",
+    "href": "publications.html#forthcoming-and-edited-volumes-in-preparation",
+    "title": "Publications",
+    "section": "Forthcoming and edited volumes (in preparation)",
+    "text": "Forthcoming and edited volumes (in preparation)\n\nNikiforidou, Kiki, and Vassiliki Geka (eds.). Genres and Influential Texts (volume in preparation, NKUA Division of Language-Linguistics)."
+  },
+  {
+    "objectID": "publications.html#lab-working-papers-digital-edition",
+    "href": "publications.html#lab-working-papers-digital-edition",
+    "title": "Publications",
+    "section": "Lab Working Papers, digital edition",
+    "text": "Lab Working Papers, digital edition\nOpen-access pre-prints and platform launch reports self-published as the AthDGC Working Papers, digital edition. The current issue is WP-01, the AthDGC launch report."
+  },
+  {
+    "objectID": "publications.html#citation-request",
+    "href": "publications.html#citation-request",
+    "title": "Publications",
+    "section": "Citation request",
+    "text": "Citation request\nAuthors who cite work by lab members are asked to use the canonical author-date form supplied per item above. For a Working Paper, see the citation template on the Series page."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "The AthDGC platform source-code snapshot reached Zenodo as v0.4.0 with concept DOI (a Digital Object Identifier that always points to the latest version of a deposited record) 10.5281/zenodo.20439182. The launch report publishes as WP-01 in the AthDGC Working Papers, digital edition."
+  },
+  {
+    "objectID": "news.html#athdgc-v0.4.0-minted-on-zenodo-an-open-research-data-repository-hosted-at-cern-that-mints-permanent-dois",
+    "href": "news.html#athdgc-v0.4.0-minted-on-zenodo-an-open-research-data-repository-hosted-at-cern-that-mints-permanent-dois",
+    "title": "News",
+    "section": "",
+    "text": "The AthDGC platform source-code snapshot reached Zenodo as v0.4.0 with concept DOI (a Digital Object Identifier that always points to the latest version of a deposited record) 10.5281/zenodo.20439182. The launch report publishes as WP-01 in the AthDGC Working Papers, digital edition."
+  },
+  {
+    "objectID": "news.html#hugging-face-a-public-hosting-platform-for-machine-learning-models-and-datasets-mirror-pypi-the-python-package-index-the-central-archive-that-pip-downloads-packages-from-stub-live",
+    "href": "news.html#hugging-face-a-public-hosting-platform-for-machine-learning-models-and-datasets-mirror-pypi-the-python-package-index-the-central-archive-that-pip-downloads-packages-from-stub-live",
+    "title": "News",
+    "section": "2026-06-03, Hugging Face (a public hosting platform for machine-learning models and datasets) mirror + PyPI (the Python Package Index, the central archive that pip downloads packages from) stub live",
+    "text": "2026-06-03, Hugging Face (a public hosting platform for machine-learning models and datasets) mirror + PyPI (the Python Package Index, the central archive that pip downloads packages from) stub live\nThe AthDGC Hugging Face organization is live at https://huggingface.co/AthDGC, with three provisional model repos:\n\nAthDGC/grc_byz_proiel\nAthDGC/grc_lbem_proiel\nAthDGC/grc_mod_proiel\n\nThe full weight payloads become available with the v0.5 audit-fix release. In parallel, the PyPI package athdgc-tools reserves the name with a stub release 0.4.0.dev0 at https://pypi.org/project/athdgc-tools/."
+  },
+  {
+    "objectID": "news.html#forthcoming-athdgc-v0.5-release",
+    "href": "news.html#forthcoming-athdgc-v0.5-release",
+    "title": "News",
+    "section": "Forthcoming, AthDGC v0.5 release",
+    "text": "Forthcoming, AthDGC v0.5 release\nThe next AthDGC corpus release is the v0.5 audit-fix pass: clean re-annotation of the existing Greek periods after the Stanza (Stanford's open-source Python workflow that automatically tags, lemmatises, and parses sentences)-introduced errors are corrected at scale on GRNET ARIS (the Greek national high-performance computing cluster, run by GRNET), plus the Classical Armenian editorial fix on the xcl_proiel workflow. Release date will be announced when the audit pass is verified."
+  },
+  {
+    "objectID": "news.html#workshop-new-trends-in-diachronic-and-theoretical-linguistics",
+    "href": "news.html#workshop-new-trends-in-diachronic-and-theoretical-linguistics",
+    "title": "News",
+    "section": "2026-05-28, Workshop: New Trends in Diachronic and Theoretical Linguistics",
+    "text": "2026-05-28, Workshop: New Trends in Diachronic and Theoretical Linguistics\nThe lab hosted a one-day Workshop on New Trends in Diachronic and Theoretical Linguistics at the Conference Room of the Library of the School of Philosophy, NKUA, as part of the MA Seminar series of the Programme in English Language, Linguistics, and Translation. Two invited lectures were delivered by colleagues from the University of Bucharest: Adina Dragomirescu on the syntax of Istro-Romanian between Romance inheritance and Slavonic contact, and Alexandru Nicolae on the syntax of negation in Romanian from a comparative perspective. The afternoon session featured seven young-researcher talks by members of the lab. The full programme, abstracts, and speaker information are on the Events page."
+  },
+  {
+    "objectID": "news.html#autumn-2026-kedivim-course",
+    "href": "news.html#autumn-2026-kedivim-course",
+    "title": "News",
+    "section": "Autumn 2026, KEDIVIM course",
+    "text": "Autumn 2026, KEDIVIM course\nNKUA KEDIVIM continuing-education course \"Ψηφιακά Εργαλεία για τη Διαχρονική Ανάλυση της Γλώσσας / Digital Tools for the Diachronic Analysis of Language\". Director: Prof. Nikolaos Lavidas. Course landing page: https://athdgc.github.io/training.html. Body text, fees, and certificate code on the official KEDIVIM listing closer to term start."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AthDGC Laboratory",
+    "section": "",
+    "text": "The AthDGC Laboratory for Diachronic Linguistics and Language Change is a research initiative hosted at the National and Kapodistrian University of Athens (NKUA), Division of Language-Linguistics, Department of English Language and Literature, School of Philosophy. The lab brings together work on:\n\nlanguage contact, how languages affect each other under sustained bilingual or multilingual conditions, from Indo-European antiquity to the present;\ndiachronic linguistics, the systematic study of language change across centuries and millennia, with Greek as the canonical reference language;\ncomputational philology, dependency-parsed historical corpora (PROIEL (the dependency-treebank (a collection of sentences whose grammatical structure has been analysed and stored) standard for early Indo-European languages, developed at Oslo) XML 2.0 (the file format that stores each sentence as a tree of word-by-word grammatical relations, developed at Oslo)), cross-lingual alignment (matching corresponding words or sentences between texts in different languages), syntactic-feature classification of diachronic stages.\n\nThe lab is led by Prof. Nikolaos Lavidas."
+  },
+  {
+    "objectID": "index.html#what-the-lab-is",
+    "href": "index.html#what-the-lab-is",
+    "title": "AthDGC Laboratory",
+    "section": "",
+    "text": "The AthDGC Laboratory for Diachronic Linguistics and Language Change is a research initiative hosted at the National and Kapodistrian University of Athens (NKUA), Division of Language-Linguistics, Department of English Language and Literature, School of Philosophy. The lab brings together work on:\n\nlanguage contact, how languages affect each other under sustained bilingual or multilingual conditions, from Indo-European antiquity to the present;\ndiachronic linguistics, the systematic study of language change across centuries and millennia, with Greek as the canonical reference language;\ncomputational philology, dependency-parsed historical corpora (PROIEL (the dependency-treebank (a collection of sentences whose grammatical structure has been analysed and stored) standard for early Indo-European languages, developed at Oslo) XML 2.0 (the file format that stores each sentence as a tree of word-by-word grammatical relations, developed at Oslo)), cross-lingual alignment (matching corresponding words or sentences between texts in different languages), syntactic-feature classification of diachronic stages.\n\nThe lab is led by Prof. Nikolaos Lavidas."
+  },
+  {
+    "objectID": "index.html#what-we-publish",
+    "href": "index.html#what-we-publish",
+    "title": "AthDGC Laboratory",
+    "section": "What we publish",
+    "text": "What we publish\n\n\n\nSeries\nFormat\nScope\n\n\n\n\nWorking Papers, digital edition\nHTML + .docx\nopen-access pre-prints and platform launch reports from lab members and affiliates\n\n\nResearch outputs\ndata / code / corpora\nopen datasets, software, and dependency-parsed corpora released under permissive licences"
+  },
+  {
+    "objectID": "index.html#featured-platform",
+    "href": "index.html#featured-platform",
+    "title": "AthDGC Laboratory",
+    "section": "Featured platform",
+    "text": "Featured platform\nAthDGC, Athens Digital Glossa Chronos, the lab's flagship computational platform. PROIEL-XML 2.0 dependency-parsed treebank of the entire Greek language (Homeric through Modern), with verse-level cross-lingual alignment to Latin, Gothic, Old Church Slavonic, and Classical Armenian. v0.7 expands to Sanskrit, Old English, Avestan, Old Persian, and Ukrainian. Fourteen open-source modules. The launch report is Working Paper 01 of this series."
+  },
+  {
+    "objectID": "index.html#affiliation-block",
+    "href": "index.html#affiliation-block",
+    "title": "AthDGC Laboratory",
+    "section": "Affiliation block",
+    "text": "Affiliation block\nNational and Kapodistrian University of Athens (NKUA), Division of Language-Linguistics, Department of English Language and Literature, School of Philosophy.\nContact: nlavidas@enl.uoa.gr."
+  },
+  {
+    "objectID": "index.html#funding",
+    "href": "index.html#funding",
+    "title": "AthDGC Laboratory",
+    "section": "Funding",
+    "text": "Funding\nFunded by the Hellenic Foundation for Research and Innovation (HFRI) under the 3rd Call for HFRI Research Projects to support Post-Doctoral Researchers, Project No. 20577; with complementary support from the Greece 2.0 National Recovery and Resilience Plan. Compute via GRNET ARIS (the Greek national high-performance computing cluster, run by GRNET) (Greek national HPC (high-performance computing, i.e. a cluster of fast machines used for heavy computation)), allocation pa260305. Project: CVL-CDSAML, A Corpus-based Valency (the number and type of arguments a verb takes) Lexicon for a Contrastive and Diachronic Study of Ancient and Medieval Languages."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The AthDGC Laboratory studies three intertwined research areas at the National and Kapodistrian University of Athens (NKUA).\n\n\nThe lab investigates how languages affect each other under sustained bilingual, multilingual, and translation-driven conditions. The empirical focus runs from Indo-European antiquity (Greek-Latin contact in the Hellenistic and Roman periods; Greek-Slavic contact in late antiquity and Byzantium) through Modern Greek sociolinguistic settings.\n\n\n\nThe lab tracks systematic patterns of language change across three millennia of Greek. Recurring themes: argument-structure shift, voice + aspect realisation, perfect periphrasis, negation morphology, the case system, and the diachronic typology of information structure.\n\n\n\nThe lab builds open computational infrastructure for historical languages: dependency-parsed corpora under the PROIEL (the dependency-treebank (a collection of sentences whose grammatical structure has been analysed and stored) standard for early Indo-European languages, developed at Oslo) XML 2.0 (the file format that stores each sentence as a tree of word-by-word grammatical relations, developed at Oslo) schema; cross-lingual sentence- + word-level alignment via LaBSE (a multilingual sentence-embedding model that maps sentences from many languages into a common vector space) + AwesomeAlign (a word-alignment procedure that uses multilingual-BERT attention to match words across translations); syntactic-feature classification of diachronic stages via the LightSIDE (an open-source text-mining workbench developed at Carnegie Mellon)-AthDGC (the Lavidas-extension fork of LightSIDE that operates on syntactic features rather than only text features) fork; reception-graph navigation for influential canonical texts (Iliad reception, NT patristic reception, LXX retranslation chains)."
+  },
+  {
+    "objectID": "about.html#scope",
+    "href": "about.html#scope",
+    "title": "About",
+    "section": "",
+    "text": "The AthDGC Laboratory studies three intertwined research areas at the National and Kapodistrian University of Athens (NKUA).\n\n\nThe lab investigates how languages affect each other under sustained bilingual, multilingual, and translation-driven conditions. The empirical focus runs from Indo-European antiquity (Greek-Latin contact in the Hellenistic and Roman periods; Greek-Slavic contact in late antiquity and Byzantium) through Modern Greek sociolinguistic settings.\n\n\n\nThe lab tracks systematic patterns of language change across three millennia of Greek. Recurring themes: argument-structure shift, voice + aspect realisation, perfect periphrasis, negation morphology, the case system, and the diachronic typology of information structure.\n\n\n\nThe lab builds open computational infrastructure for historical languages: dependency-parsed corpora under the PROIEL (the dependency-treebank (a collection of sentences whose grammatical structure has been analysed and stored) standard for early Indo-European languages, developed at Oslo) XML 2.0 (the file format that stores each sentence as a tree of word-by-word grammatical relations, developed at Oslo) schema; cross-lingual sentence- + word-level alignment via LaBSE (a multilingual sentence-embedding model that maps sentences from many languages into a common vector space) + AwesomeAlign (a word-alignment procedure that uses multilingual-BERT attention to match words across translations); syntactic-feature classification of diachronic stages via the LightSIDE (an open-source text-mining workbench developed at Carnegie Mellon)-AthDGC (the Lavidas-extension fork of LightSIDE that operates on syntactic features rather than only text features) fork; reception-graph navigation for influential canonical texts (Iliad reception, NT patristic reception, LXX retranslation chains)."
+  },
+  {
+    "objectID": "about.html#methods",
+    "href": "about.html#methods",
+    "title": "About",
+    "section": "Methods",
+    "text": "Methods\nThe lab's working methods are:\n\nPROIEL-strict annotation. Every annotated corpus the lab releases uses the PROIEL XML 2.0 schema (Haug & Johndal 2008; Eckhoff et al. 2018), no CoNLL-U, no UD label leakage. The PROIEL relation inventory (the closed set of grammatical-relation labels the schema allows, e.g. sub, obj, obl, atr) is pred / sub / obj / iobj / obl / atr / adv / voc / aux / xcomp / comp / xobj / nonsub / coord / pred-nom / apos / parpred / expl.\nOpen-access source chain. Source texts come from public-domain or open-licence archives (Perseus, Open Greek and Latin / First1K, SBL GNT, Rahlfs LXX, Papyri.info, Patrologia Graeca via Documenta Catholica Omnia, TITUS, Wulfila Project, GRETIL, SARIT, TEAMS, National Library of Ukraine). The annotation layer is original to the lab and released under CC-BY-4.0 (the Creative Commons Attribution 4.0 licence, which permits reuse with credit).\nReproducible tools. Every analysis workflow is released as source code under Apache-2.0 (a permissive open-source licence widely used for software) (or BSD / GPL where upstream requires).\nConsistent academic voice. All public artefacts follow the project style guide, with the NKUA affiliation block in its canonical form."
+  },
+  {
+    "objectID": "about.html#laboratory-information",
+    "href": "about.html#laboratory-information",
+    "title": "About",
+    "section": "Laboratory information",
+    "text": "Laboratory information\n\n\n\n\n\n\n\nField\nValue\n\n\n\n\nFounded\nApril 2024\n\n\nOfficial documentation\nΦΕΚ (Government Gazette) founding document; updated with new ΦΕΚ for regulatory compliance\n\n\nLocation\nRoom 929, 9th floor\n\n\nDepartment\nEnglish Language and Literature\n\n\nSchool\nSchool of Philosophy\n\n\nInstitution\nNational and Kapodistrian University of Athens (NKUA)\n\n\nCampus\nZografou, 157 84 Athens, Greece\n\n\nDirector\nProf. Nikolaos Lavidas"
+  },
+  {
+    "objectID": "about.html#laboratory-objectives",
+    "href": "about.html#laboratory-objectives",
+    "title": "About",
+    "section": "Laboratory objectives",
+    "text": "Laboratory objectives\nThe lab pursues six strategic objectives, defined in the founding ΦΕΚ and the regulatory update:\n\nResearch and analysis. Support experimental research investigating cross-linguistic and cross-cultural identities in discourse during translation and interpretation, relating to social reality and how changes affect translation outcomes.\nEducational support. Serve as a hub for practical research and training for undergraduate, graduate, and doctoral students in technological applications of translation and interpretation.\nVulnerable groups support. Support educational work related to vulnerable social groups where translation and interpretation are essential survival prerequisites.\nProfessional development. Develop training and educational activities (seminars, conferences, lectures) supporting the operation of Graduate Programs and undergraduate programs.\nCommunity engagement. Connect the University with Greek society through high-level scientific training for educators and specialists seeking development in cross-cultural understanding.\nProfessional collaboration. Develop cooperation with associations and organisations to promote translation and interpretation issues."
+  },
+  {
+    "objectID": "about.html#quality-assurance-and-core-research-mission",
+    "href": "about.html#quality-assurance-and-core-research-mission",
+    "title": "About",
+    "section": "Quality assurance and core research mission",
+    "text": "Quality assurance and core research mission\nThe lab operates under strict quality-assurance policies covering research methodology, data integrity, collaborative partnerships, and educational outcomes. Its core research mission is to address fundamental questions about written language contact and its role in language evolution: how translation practices create contact situations that differ from spoken-language contact, the specific mechanisms through which written borrowing occurs, and the constraints that govern structural transfer in literary and religious texts. Method-wise, the lab develops procedures for identifying and analysing contact effects in historical corpora, with emphasis on separating genuine contact-induced change from translation interference, analysing retranslation patterns across centuries, and understanding how influential texts shape recipient-language syntax through sustained contact."
+  },
+  {
+    "objectID": "about.html#history",
+    "href": "about.html#history",
+    "title": "About",
+    "section": "History",
+    "text": "History\nThe lab grows out of Prof. Lavidas's research programme on the diachrony of Greek and language contact (see The Diachrony of Written Language Contact: A Contrastive Approach, Brill 2022; Studying Language Change in the 21st Century: Theory and Methodologies, eds. Lavidas & Nikiforidou, Brill 2022). The computational infrastructure that powers the lab's open releases is funded by HFRI Project No. 20577 + Greece 2.0 NRRP, with compute on GRNET ARIS (the Greek national high-performance computing cluster, run by GRNET)."
+  },
+  {
+    "objectID": "about.html#working-papers-digital-edition",
+    "href": "about.html#working-papers-digital-edition",
+    "title": "About",
+    "section": "Working Papers, digital edition",
+    "text": "Working Papers, digital edition\nThe lab self-publishes a continuously growing series of Working Papers. Each paper carries a citable identifier, an open licence, and a frozen Zenodo (an open research-data repository hosted at CERN that mints permanent DOIs) deposit. Authors are lab members or affiliates of the AthDGC research network."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nProf. Nikolaos Lavidas Director, AthDGC Laboratory for Diachronic Linguistics and Language Change National and Kapodistrian University of Athens (NKUA), Division of Language-Linguistics, Department of English Language and Literature, School of Philosophy.\nEmail: nlavidas@enl.uoa.gr"
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "The lab organises and co-organises workshops and seminar series on language contact, diachronic linguistics, computational philology, and historical Indo-European linguistics. Past and upcoming events appear below."
+  },
+  {
+    "objectID": "events.html#workshop-new-trends-in-diachronic-and-theoretical-linguistics-28-may-2026",
+    "href": "events.html#workshop-new-trends-in-diachronic-and-theoretical-linguistics-28-may-2026",
+    "title": "Events",
+    "section": "Workshop, New Trends in Diachronic and Theoretical Linguistics (28 May 2026)",
+    "text": "Workshop, New Trends in Diachronic and Theoretical Linguistics (28 May 2026)\nA one-day workshop with invited talks and young-researcher presentations, held at the Conference Room of the Library of the School of Philosophy, NKUA, as part of the MA Seminar series of the Programme in English Language, Linguistics, and Translation.\n\n\n\n\n\n\n\nField\nValue\n\n\n\n\nDate\nThursday, 28 May 2026\n\n\nTime\n12:00 to 18:00\n\n\nVenue\nConference Room next to the amphitheatre of the Library of the School of Philosophy, NKUA\n\n\nProgramme\nTwo invited lectures (12:15 and 13:15), light lunch (14:00), seven young-researcher talks (14:40 to 17:00), closing discussion (17:20 to 18:00)\n\n\nClosing social\nWorkshop early dinner (18:30) and ice cream at Zografou\n\n\n\n\nProgramme\n\n\n\n\n\n\n\n\nTime\nSpeaker\nItem\n\n\n\n\n12:00\nOpening\nWelcome and introduction\n\n\n12:15\nInvited talk: Adina Dragomirescu (University of Bucharest)\nThe Syntax of Istro-Romanian: Between Romance and Slavonic\n\n\n13:15\nInvited talk: Alexandru Nicolae (University of Bucharest)\nThe Syntax of Negation in Romanian from a Comparative Perspective\n\n\n14:00\nLight lunch\nLight lunch\n\n\n14:40\nMaria Episkopou\nBeowulf, its translations, and the diachronic importance of storytelling\n\n\n15:00\nVassilis Symeonidis\nDynamic Complexity in Grammaticalization: A Corpus-Based Model of English Semi-Modals\n\n\n15:20\nGeorgia Stavrianopoulou\nFrom Abject to Subject: The Diachrony of Monstrous Frames in Fairytale Retellings\n\n\n15:40\nAnastasia Tsiropina\nThe diachrony of dative Object-Experiencer psych-verb constructions\n\n\n16:00\nEleni Plakoutsi\nByzantine high and low registers: challenges for Early Medieval Greek studies\n\n\n16:20\nSophia Chionidi\nComputational Approaches to the Romance Influence on English Diachronic Morpho-Syntax: A Case of Historical Written Contact\n\n\n16:40\nEvangelos Argyropoulos Theodoropoulos\nFrom Raw Text to Structured Linguistic Data\n\n\n17:20\nClosing discussion\nUntil 18:00\n\n\n\n\n\nInvited talks\nAdina Dragomirescu (University of Bucharest), The Syntax of Istro-Romanian: Between Romance and Slavonic. The talk examines the syntax of Istro-Romanian, an endangered Romance variety spoken in Istria, within the context of intense contact with the Cakavian dialect of Croatian. Its structural grammar represents a unique intersection between archaic Romance inheritance and Slavonic syntactic reinforcement. Features like interpolation and auxiliary inversion reveal a relaxed V2 grammar (a grammar with a verb-second word-order pattern in main clauses) where the verb moves to the C-domain. While contact with Croatian did not completely dictate these structures, it reinforced overlapping syntactic options that disappear in standard Romance languages.\nAlexandru Nicolae (University of Bucharest), The Syntax of Negation in Romanian from a Comparative Perspective. The talk offers an overview of the negation system of Romanian, arguing that negation provides a reliable diagnostic for key aspects of clause structure. Romanian is of special interest because it displays strict negative concord (a pattern in which multiple negative elements in one clause jointly express a single semantic negation), preserves morphosyntactic distinctions among negative markers (clitic nu vs affixal ne-), and occupies a hybrid position at the intersection of Romance inheritance and Balkan areal convergence. The analysis combines synchronic and diachronic perspectives and situates Romanian within a comparative context, with emphasis on the Balkan Sprachbund (a linguistic area in which neighbouring languages share grammatical features through long-term contact).\n\n\nYoung-researcher contributions\nMaria Episkopou, Beowulf, its translations, and the diachronic importance of storytelling. The presentation revolves around the language used in the epic of Beowulf and what it reveals about the era of both the original oral form and the manuscript. It also examines the role of kennings (compound poetic figures in Old English and Old Norse verse) and other special forms, asking how translators have diachronically dealt with such elements and what their choices may show.\nVassilis Symeonidis, Dynamic Complexity in Grammaticalization: A Corpus-Based Model of English Semi-Modals. The presentation examines how grammatical complexity changes over time during grammaticalisation (the historical process by which content words turn into grammatical markers) and introduces a corpus-based computational model of dynamic complexity.\nGeorgia Stavrianopoulou, From Abject to Subject: The Diachrony of Monstrous Frames in Fairytale Retellings. Drawing on Frame Theory (a cognitive-semantic framework in which the meaning of a word activates a structured background of related concepts) and fairytale studies, the presentation explores how contemporary retellings reframe monstrous figures as emotional beings and romantically desirable subjects.\nAnastasia Tsiropina, The diachrony of dative Object-Experiencer psych-verb constructions. The study traces the development of dative object-experiencer psych-verbs (verbs that take an experiencer argument in the dative case rather than the nominative, such as Latin miseret me) in Greek diachrony, using historical retranslations of Ancient Greek drama and comparing the Greek findings with Modern English retranslations.\nEleni Plakoutsi, Byzantine high and low registers: challenges for Early Medieval Greek studies. The talk discusses the low prestige of Byzantine literature, the diglossia (the co-existence in one community of a high-register and a low-register variety of the same language) of the period, and the lack of reliable editions, and the problems these issues create for diachronic study.\nSophia Chionidi, Computational Approaches to the Romance Influence on English Diachronic Morpho-Syntax: A Case of Historical Written Contact. The talk examines written language contact in medieval England and discusses computational tools such as Python for extracting, cleaning, and visualising diachronic linguistic data.\nEvangelos Argyropoulos Theodoropoulos, From Raw Text to Structured Linguistic Data. The presentation reports on interdisciplinary collaboration between linguistic analysis and computational implementation. The workflow involved cooperation with the lab's technical side, specifically through collaboration with Theodoros Michalareas. The workflow constantly moved between linguistic logic and computational structure: linguistic decisions often affected technical implementation, and technical constraints frequently influenced annotation and formatting decisions. In practice, the collaboration involved discussing workflow organisation, adapting notebook pipelines, testing XML outputs, debugging malformed structures, and gradually improving automation processes."
+  },
+  {
+    "objectID": "events.html#upcoming-events",
+    "href": "events.html#upcoming-events",
+    "title": "Events",
+    "section": "Upcoming events",
+    "text": "Upcoming events\nUpcoming workshops, seminars, and lectures are announced on the News page and through the lab director's contact. To propose a talk or to be added to the lab's announcement list, write to nlavidas@enl.uoa.gr."
+  },
+  {
+    "objectID": "journal.html",
+    "href": "journal.html",
+    "title": "GLOSSA Contact",
+    "section": "",
+    "text": "GLOSSA Contact is an international peer-reviewed open-access journal dedicated to research on language contact phenomena. It is hosted at the National and Kapodistrian University of Athens (NKUA), with Prof. Nikolaos Lavidas as one of the three Co-Editors-in-Chief. The journal publishes research articles on structural borrowing, contact-induced change, multilingualism, written language contact, translation studies, and areal linguistics."
+  },
+  {
+    "objectID": "journal.html#journal-information",
+    "href": "journal.html#journal-information",
+    "title": "GLOSSA Contact",
+    "section": "Journal information",
+    "text": "Journal information\n\n\n\nField\nValue\n\n\n\n\nTitle\nGLOSSA Contact\n\n\nPublisher\nNational and Kapodistrian University of Athens (NKUA)\n\n\nAccess\nOpen access\n\n\nISSN\n2653-9519\n\n\nWebsite\nhttps://glossacontact.org\n\n\nHosted at\nNKUA, Division of Language-Linguistics, Department of English Language and Literature, School of Philosophy"
+  },
+  {
+    "objectID": "journal.html#co-editors-in-chief",
+    "href": "journal.html#co-editors-in-chief",
+    "title": "GLOSSA Contact",
+    "section": "Co-Editors-in-Chief",
+    "text": "Co-Editors-in-Chief\n\nProf. Nikolaos Lavidas, University of Athens (NKUA)\nProf. Ioanna Sitaridou, University of Cambridge\nProf. Igor Yanovich, University of Tuebingen"
+  },
+  {
+    "objectID": "journal.html#scope",
+    "href": "journal.html#scope",
+    "title": "GLOSSA Contact",
+    "section": "Scope",
+    "text": "Scope\nThe journal welcomes submissions employing diverse methodological approaches, from traditional comparative-historical methods to contemporary corpus-based and computational techniques. Special interest is given to research on contact through translation and written-language borrowing, two of the lab's core themes.\nTopics within scope include, with examples in parentheses:\n\nStructural borrowing, the transfer of grammatical structure across languages in sustained contact (for example, the borrowing of analytic-tense morphology across the Balkan Sprachbund).\nContact-induced change, language change attributable to contact rather than to internal motivation (for example, the rise of the periphrastic perfect under contact pressure).\nMultilingualism, theoretical and empirical study of speakers and communities who routinely use more than one language.\nWritten-language contact, contact phenomena specific to written registers, where literacy and prestige mediate borrowing (the lab's flagship area).\nTranslation studies, contact effects in translated texts, including biblical, literary, and technical translation across the historical record.\nAreal linguistics, the comparative study of language areas in which neighbouring languages share grammatical features through long-term contact."
+  },
+  {
+    "objectID": "journal.html#submissions",
+    "href": "journal.html#submissions",
+    "title": "GLOSSA Contact",
+    "section": "Submissions",
+    "text": "Submissions\nSubmissions are reviewed by the editorial board and by at least one external reviewer in the area of the submission. Submission guidelines, the editorial board, and the list of published articles are on the journal's main website at https://glossacontact.org."
+  },
+  {
+    "objectID": "journal.html#relationship-to-the-lab",
+    "href": "journal.html#relationship-to-the-lab",
+    "title": "GLOSSA Contact",
+    "section": "Relationship to the lab",
+    "text": "Relationship to the lab\nThe journal is editorially independent of the lab. The journal is the broader open-access venue for contact-linguistics research at NKUA, while the AthDGC Working Papers, digital edition self-publishes the lab's pre-prints and launch reports."
+  },
+  {
+    "objectID": "papers/01-athdgc-launch.html",
+    "href": "papers/01-athdgc-launch.html",
+    "title": "WP-01, AthDGC: An Open Diachronic Greek Treebank with Indo-European Parallels",
+    "section": "",
+    "text": "Lavidas, N., Nikiforidou, K., Haug, D., Kulikov, L., Geka, V., Symeonidis, V., Michalareas, T., Chionidi, S., Tsiropina, A., Plakoutsi, E., Argyropoulos, E. (2026). AthDGC: An Open Diachronic Greek Treebank with Indo-European Parallels. AthDGC Working Papers, digital edition, WP-01. National and Kapodistrian University of Athens (NKUA). 10.5281/zenodo.20439182\n\n@techreport{lavidas2026athdgc,\n  type        = {AthDGC Working Paper, digital edition},\n  number      = {WP-01},\n  author      = {Lavidas, Nikolaos and Nikiforidou, Kiki and Haug, Dag and Kulikov, Leonid and\n                 Geka, Vassiliki and Symeonidis, Vassileios and Michalareas, Theodoros and\n                 Chionidi, Sofia and Tsiropina, Anastasia and Plakoutsi, Eleni and\n                 Argyropoulos, Evangelos},\n  title       = {{AthDGC}: An Open Diachronic Greek Treebank with Indo-European Parallels},\n  year        = {2026},\n  institution = {National and Kapodistrian University of Athens (NKUA)},\n  doi         = {10.5281/zenodo.20439182}\n}"
+  },
+  {
+    "objectID": "papers/01-athdgc-launch.html#citation",
+    "href": "papers/01-athdgc-launch.html#citation",
+    "title": "WP-01, AthDGC: An Open Diachronic Greek Treebank with Indo-European Parallels",
+    "section": "",
+    "text": "Lavidas, N., Nikiforidou, K., Haug, D., Kulikov, L., Geka, V., Symeonidis, V., Michalareas, T., Chionidi, S., Tsiropina, A., Plakoutsi, E., Argyropoulos, E. (2026). AthDGC: An Open Diachronic Greek Treebank with Indo-European Parallels. AthDGC Working Papers, digital edition, WP-01. National and Kapodistrian University of Athens (NKUA). 10.5281/zenodo.20439182\n\n@techreport{lavidas2026athdgc,\n  type        = {AthDGC Working Paper, digital edition},\n  number      = {WP-01},\n  author      = {Lavidas, Nikolaos and Nikiforidou, Kiki and Haug, Dag and Kulikov, Leonid and\n                 Geka, Vassiliki and Symeonidis, Vassileios and Michalareas, Theodoros and\n                 Chionidi, Sofia and Tsiropina, Anastasia and Plakoutsi, Eleni and\n                 Argyropoulos, Evangelos},\n  title       = {{AthDGC}: An Open Diachronic Greek Treebank with Indo-European Parallels},\n  year        = {2026},\n  institution = {National and Kapodistrian University of Athens (NKUA)},\n  doi         = {10.5281/zenodo.20439182}\n}"
+  },
+  {
+    "objectID": "papers/01-athdgc-launch.html#full-paper",
+    "href": "papers/01-athdgc-launch.html#full-paper",
+    "title": "WP-01, AthDGC: An Open Diachronic Greek Treebank with Indo-European Parallels",
+    "section": "Full paper",
+    "text": "Full paper\nThe full text of this Working Paper, method, dataset description, open-access source provenance per period and per IE parallel, IE-parallel matrix, retelling and retranslation chains, tool licence matrix, reuse potential, access + format. acknowledgements, lives at the AthDGC public site:\nRead the full launch report at athdgc.github.io/data_paper.html\nThe same source .qmd renders to HTML, .docx, and (when TinyTeX permits) PDF. This Working Papers entry mirrors the canonical text."
+  },
+  {
+    "objectID": "papers/01-athdgc-launch.html#platform-links",
+    "href": "papers/01-athdgc-launch.html#platform-links",
+    "title": "WP-01, AthDGC: An Open Diachronic Greek Treebank with Indo-European Parallels",
+    "section": "Platform links",
+    "text": "Platform links\n\n\n\nResource\nURL\n\n\n\n\nPublic showcase\nhttps://athdgc.github.io\n\n\nSource code\nhttps://github.com/AthDGC/Diachronic-Linguistics-Platform\n\n\nStanza (Stanford's open-source Python workflow that automatically tags, lemmatises, and parses sentences) checkpoints (saved snapshots of a trained model)\nhttps://huggingface.co/AthDGC (3 model repos live; weights at v0.5)\n\n\nPyPI (the Python Package Index, the central archive that pip downloads packages from) toolkit\nhttps://pypi.org/project/athdgc-tools/ (stub 0.4.0.dev0; full v0.5)\n\n\nConcept DOI (a Digital Object Identifier that always points to the latest version of a deposited record)\n10.5281/zenodo.20439182\n\n\nKEDIVIM autumn 2026 course\nhttps://athdgc.github.io/training.html"
+  },
+  {
+    "objectID": "papers/01-athdgc-launch.html#team",
+    "href": "papers/01-athdgc-launch.html#team",
+    "title": "WP-01, AthDGC: An Open Diachronic Greek Treebank with Indo-European Parallels",
+    "section": "Team",
+    "text": "Team\nProf. Nikolaos Lavidas (PI, NKUA), Prof. Emerita Kiki Nikiforidou (NKUA; Co-Editor, Genres and Influential Texts volume), Prof. Dag Haug (Oslo; PROIEL Project Director), Prof. Leonid Kulikov (Ghent; Diachronic typology, valency questionnaires), Dr. Vassiliki Geka (NKUA; Post-Doctoral Researcher; Co-Editor, Genres and Influential Texts volume), Dr. Vassileios Symeonidis (NKUA; Post-Doctoral Researcher), Dr. Theodoros Michalareas (NKUA; Post-Doctoral Researcher), Sofia Chionidi (NKUA; PhD Candidate), Anastasia Tsiropina (NKUA; PhD Candidate), Eleni Plakoutsi (NKUA; PhD Candidate), Evangelos Argyropoulos (NKUA; Research Assistant)."
+  },
+  {
+    "objectID": "papers/01-athdgc-launch.html#acknowledgements",
+    "href": "papers/01-athdgc-launch.html#acknowledgements",
+    "title": "WP-01, AthDGC: An Open Diachronic Greek Treebank with Indo-European Parallels",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nFunded by the Hellenic Foundation for Research and Innovation (HFRI) under the 3rd Call for HFRI Research Projects to support Post-Doctoral Researchers, Project No. 20577; with complementary support from the Greece 2.0 National Recovery and Resilience Plan. Compute supplied by GRNET ARIS (the Greek national high-performance computing cluster, run by GRNET) (Greek national HPC (high-performance computing, i.e. a cluster of fast machines used for heavy computation)), allocation pa260305. Funded project: CVL-CDSAML, A Corpus-based Valency Lexicon for a Contrastive and Diachronic Study of Ancient and Medieval Languages."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "The lab organises its research under six thematic strands:\n\n\nInvestigation of language-contact effects in the Greek Septuagint and biblical retranslations. Analysis of Hebrew-Greek syntactic interference, argument-structure borrowing, and the evolution of translation norms across successive retranslations from antiquity through medieval periods.\n\n\n\nStudy of contact phenomena in medieval literary and religious translations. Examination of Latin-Greek, Arabic-Greek, and other medieval translation traditions, focusing on how translation practice created sustained contact situations and enabled structural borrowing.\n\n\n\nAnalysis of syntactic and lexical borrowing specifically in written registers. Investigation of how written contact differs from spoken contact in terms of borrowing constraints, the role of literacy and prestige in enabling structural transfer, and the persistence of written borrowings across generations.\n\n\n\nComparative analysis of successive retranslations of the same source texts across centuries. Study of how retranslation norms evolve, the accumulation of contact effects through multiple translation cycles, and the role of influential earlier translations in shaping later versions.\n\n\n\nDevelopment of computational methods for detecting and quantifying contact phenomena in historical treebanks. Application of statistical techniques to distinguish translation interference from contact-induced change and to identify genuine structural borrowings in translated texts.\n\n\n\nTheoretical investigation of how syntactic structures transfer between languages in written-contact situations. Analysis of constraints on borrowability in written versus spoken contact, the role of argument structure in enabling transfer, and grammaticalisation through contact in literary texts."
+  },
+  {
+    "objectID": "research.html#research-focus-areas",
+    "href": "research.html#research-focus-areas",
+    "title": "Research",
+    "section": "",
+    "text": "The lab organises its research under six thematic strands:\n\n\nInvestigation of language-contact effects in the Greek Septuagint and biblical retranslations. Analysis of Hebrew-Greek syntactic interference, argument-structure borrowing, and the evolution of translation norms across successive retranslations from antiquity through medieval periods.\n\n\n\nStudy of contact phenomena in medieval literary and religious translations. Examination of Latin-Greek, Arabic-Greek, and other medieval translation traditions, focusing on how translation practice created sustained contact situations and enabled structural borrowing.\n\n\n\nAnalysis of syntactic and lexical borrowing specifically in written registers. Investigation of how written contact differs from spoken contact in terms of borrowing constraints, the role of literacy and prestige in enabling structural transfer, and the persistence of written borrowings across generations.\n\n\n\nComparative analysis of successive retranslations of the same source texts across centuries. Study of how retranslation norms evolve, the accumulation of contact effects through multiple translation cycles, and the role of influential earlier translations in shaping later versions.\n\n\n\nDevelopment of computational methods for detecting and quantifying contact phenomena in historical treebanks. Application of statistical techniques to distinguish translation interference from contact-induced change and to identify genuine structural borrowings in translated texts.\n\n\n\nTheoretical investigation of how syntactic structures transfer between languages in written-contact situations. Analysis of constraints on borrowability in written versus spoken contact, the role of argument structure in enabling transfer, and grammaticalisation through contact in literary texts."
+  },
+  {
+    "objectID": "research.html#current-research-projects",
+    "href": "research.html#current-research-projects",
+    "title": "Research",
+    "section": "Current research projects",
+    "text": "Current research projects\nFive research projects are active in the lab at v0.4:\n\nCVL-CDSAML, A Corpus-based Valency Lexicon for a Contrastive and Diachronic Study of Ancient and Medieval Languages\nThe flagship project. Develops a corpus-based valency (the number and type of arguments a verb takes) lexicon for systematic comparison of syntactic patterns across ancient and medieval language varieties. Funded by HFRI Project No. 20577 + Greece 2.0 NRRP. Compute on GRNET ARIS, allocation pa260305. Deliverables include the AthDGC platform, the diachronic-Greek treebank with IE parallels, and the valency-frame database (v0.5).\n\n\nWritten Language Contact Corpus\nDevelopment of annotated corpora of biblical and medieval translations for systematic analysis of contact effects. Extends the PROIEL Treebank with post-classical and medieval Greek texts, providing resources for diachronic contact-linguistics research. The corpus includes successive retranslations, enabling comparison of contact phenomena across translation traditions.\n\n\nSeptuagint Contact Phenomena\nComprehensive study of Hebrew-Greek contact effects in the Septuagint, analysing argument-structure patterns, word-order interference, and the development of syntactic constructions under contact influence. Examines how biblical translation created a sustained contact situation that influenced later Greek syntax.\n\n\nRenaissance Retranslation Patterns\nAnalysis of Early Modern English and Greek retranslations. Investigates how Renaissance translation practices differed from medieval approaches and examines the accumulation of contact effects through successive translation cycles. Focus on Tyndale's New Testament and contemporary Greek biblical translations.\n\n\nContrastive Written Contact\nCross-linguistic comparison of written-contact phenomena in multiple language pairs, examining whether contact effects in translation show universal patterns or language-specific constraints. Integration with the CVL-CDSAML valency lexicon enables systematic contrastive analysis."
+  },
+  {
+    "objectID": "research.html#athdgc-platform",
+    "href": "research.html#athdgc-platform",
+    "title": "Research",
+    "section": "AthDGC platform",
+    "text": "AthDGC platform\nThe lab's flagship computational platform. PROIEL (the dependency-treebank (a collection of sentences whose grammatical structure has been analysed and stored) standard for early Indo-European languages, developed at Oslo)-XML 2.0 dependency-parsed treebank of the entire Greek language (Homeric through Modern), with verse-level cross-lingual alignment to four IE witnesses at v0.4 and five more queued at v0.7.\n\n\n\nItem\nStatus\nURL\n\n\n\n\nPublic showcase\nlive\nhttps://athdgc.github.io\n\n\nSource repository\nlive\nhttps://github.com/AthDGC/Diachronic-Linguistics-Platform\n\n\nHugging Face (a public hosting platform for machine-learning models and datasets) mirror\nlive (3 model repos)\nhttps://huggingface.co/AthDGC\n\n\nPyPI (the Python Package Index, the central archive that pip downloads packages from) package\nlive (stub)\nhttps://pypi.org/project/athdgc-tools/\n\n\nConcept DOI (a Digital Object Identifier that always points to the latest version of a deposited record)\nlive (v0.4.0)\n10.5281/zenodo (an open research-data repository hosted at CERN that mints permanent DOIs).20439182"
+  },
+  {
+    "objectID": "research.html#open-source-toolkit",
+    "href": "research.html#open-source-toolkit",
+    "title": "Research",
+    "section": "Open-source toolkit",
+    "text": "Open-source toolkit\nFourteen modules under OSI-approved licences. Highlights:\n\nLightSIDE (an open-source text-mining workbench developed at Carnegie Mellon)-AthDGC (the Lavidas-extension fork of LightSIDE that operates on syntactic features rather than only text features), LightSIDE fork for PROIEL syntactic features (dependency arcs (the head-to-dependent links between words in a parsed sentence), argument-structure frames, morphology bundles). BSD-3-Clause + Apache-2.0 (a permissive open-source licence widely used for software).\nFine-tuned (further trained on new data to adapt it to a particular text type) Stanza (Stanford's open-source Python workflow that automatically tags, lemmatises, and parses sentences) checkpoints (saved snapshots of a trained model), grc_byz_proiel, grc_lbem_proiel, grc_mod_proiel for diachronic Greek. Apache-2.0. Hosted at https://huggingface.co/AthDGC.\nPROIEL XML 2.0 (the file format that stores each sentence as a tree of word-by-word grammatical relations, developed at Oslo) validator (v0.5), schema + relation-inventory linter. Apache-2.0.\nHouse-style check (v0.5), automated style enforcement for repository PRs. Apache-2.0.\nQuarto (an open-source publishing system that builds websites, slides, papers, and posters from a single source) template pack, the multi-output Quarto pack that builds athdgc.github.io and this lab site. MIT (a short permissive open-source licence).\n\nFull module list: https://athdgc.github.io/tools.html."
+  },
+  {
+    "objectID": "research.html#open-access-corpus-inputs",
+    "href": "research.html#open-access-corpus-inputs",
+    "title": "Research",
+    "section": "Open-access corpus inputs",
+    "text": "Open-access corpus inputs\nEvery primary source text used by the lab is open-access (public domain, CC-BY, CC-BY-SA, or equivalent). Greek sources draw on Perseus Digital Library, Open Greek and Latin / First1K (Leipzig), SBL Greek NT, Tischendorf and Westcott-Hort, Rahlfs LXX via openscriptures.org, Papyri.info, Patrologia Graeca via Documenta Catholica Omnia, Bibliotheca Augustana, Anemi (UoC), and Wikisource el. IE parallels draw on Vulsearch + Latin Library, the Wulfila Project (University of Antwerp), TITUS (Frankfurt), Digilib Armenian, GRETIL (Goettingen), SARIT, TEAMS, the DOE corpus, and the National Library of Ukraine. Full per-period source map: https://athdgc.github.io/samples.html."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\nOpen-access pre-prints + platform launch reports self-published as the AthDGC Working Papers, digital edition."
+  },
+  {
+    "objectID": "research.html#funding",
+    "href": "research.html#funding",
+    "title": "Research",
+    "section": "Funding",
+    "text": "Funding\nFunded by HFRI Project No. 20577 + Greece 2.0 National Recovery and Resilience Plan. Compute on GRNET ARIS (the Greek national high-performance computing cluster, run by GRNET). Project: CVL-CDSAML."
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Prof. Nikolaos Lavidas National and Kapodistrian University of Athens (NKUA), Division of Language-Linguistics, Department of English Language and Literature, School of Philosophy. nlavidas@enl.uoa.gr\nCo-Editor-in-Chief of GLOSSA Contact (an international peer-reviewed open-access journal on language contact phenomena), with Ioanna Sitaridou (University of Cambridge) and Igor Yanovich (University of Tuebingen). See the Journal page for the full editorial board and submission information."
+  },
+  {
+    "objectID": "team.html#director",
+    "href": "team.html#director",
+    "title": "Team",
+    "section": "",
+    "text": "Prof. Nikolaos Lavidas National and Kapodistrian University of Athens (NKUA), Division of Language-Linguistics, Department of English Language and Literature, School of Philosophy. nlavidas@enl.uoa.gr\nCo-Editor-in-Chief of GLOSSA Contact (an international peer-reviewed open-access journal on language contact phenomena), with Ioanna Sitaridou (University of Cambridge) and Igor Yanovich (University of Tuebingen). See the Journal page for the full editorial board and submission information."
+  },
+  {
+    "objectID": "team.html#nkua-members",
+    "href": "team.html#nkua-members",
+    "title": "Team",
+    "section": "NKUA members",
+    "text": "NKUA members\n\nProf. Emerita Kiki Nikiforidou, NKUA · Co-Editor, Genres and Influential Texts volume\nDr. Vassiliki Geka, Post-Doctoral Researcher, NKUA · Co-Editor, Genres and Influential Texts volume\nDr. Vassileios Symeonidis, Post-Doctoral Researcher, NKUA\nDr. Theodoros Michalareas, Post-Doctoral Researcher, NKUA\nSofia Chionidi, PhD Candidate, NKUA\nAnastasia Tsiropina, PhD Candidate, NKUA\nEleni Plakoutsi, PhD Candidate, NKUA\nEvangelos Argyropoulos, Research Assistant, NKUA"
+  },
+  {
+    "objectID": "team.html#international-collaborators",
+    "href": "team.html#international-collaborators",
+    "title": "Team",
+    "section": "International collaborators",
+    "text": "International collaborators\n\nProf. Dag Haug, University of Oslo · PROIEL (the dependency-treebank (a collection of sentences whose grammatical structure has been analysed and stored) standard for early Indo-European languages, developed at Oslo) Project Director\nProf. Leonid Kulikov, Ghent University · Diachronic typology · Valency (the number and type of arguments a verb takes) questionnaires"
+  },
+  {
+    "objectID": "team.html#research-network",
+    "href": "team.html#research-network",
+    "title": "Team",
+    "section": "Research network",
+    "text": "Research network\nWork published by the lab under the Athens Digital Glossa Chronos Research Network collective name lists the Network as a co-author alongside the named contributors above."
+  },
+  {
+    "objectID": "team.html#affiliation-block",
+    "href": "team.html#affiliation-block",
+    "title": "Team",
+    "section": "Affiliation block",
+    "text": "Affiliation block\nNational and Kapodistrian University of Athens (NKUA), Division of Language-Linguistics, Department of English Language and Literature, School of Philosophy."
+  },
+  {
+    "objectID": "team.html#funding",
+    "href": "team.html#funding",
+    "title": "Team",
+    "section": "Funding",
+    "text": "Funding\nFunded by the Hellenic Foundation for Research and Innovation (HFRI) under the 3rd Call for HFRI Research Projects to support Post-Doctoral Researchers, Project No. 20577; with complementary support from the Greece 2.0 National Recovery and Resilience Plan. Compute supplied by GRNET ARIS (the Greek national high-performance computing cluster, run by GRNET) (Greek national HPC (high-performance computing, i.e. a cluster of fast machines used for heavy computation)), allocation pa260305.\nFunded project: CVL-CDSAML, A Corpus-based Valency Lexicon for a Contrastive and Diachronic Study of Ancient and Medieval Languages."
+  }
+]
